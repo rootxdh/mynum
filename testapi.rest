@@ -1,0 +1,5 @@
+//controller api endpoint
+GET http://localhost:3000/mynum/5
+
+
+//mod app api endpoint
